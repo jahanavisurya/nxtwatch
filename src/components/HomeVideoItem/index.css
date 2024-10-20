@@ -1,0 +1,42 @@
+.thumbnail-image {
+  height: 150px;
+  width: 270px;
+}
+.video-item {
+  margin: 20px;
+  width: 270px;
+}
+.profile-image {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.light-theme-title-para {
+  color: #00306e;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.light-theme-title-para2 {
+  color: #00306e;
+  font-size: 11px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.dark-theme-title-para {
+  color: #f1f1f1;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.dark-theme-title-para2 {
+  color: #f1f1f1;
+  font-size: 11px;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+.video-description-container {
+  display: flex;
+  align-items: flex-start;
+}
+.views-date-container {
+  display: flex;
+}

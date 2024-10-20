@@ -1,0 +1,67 @@
+.light-theme-trending-heading-container {
+  width: 80vw;
+  background-color: #f1f5f9;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.light-theme-trending-icon-container {
+  background-color: #ffffff;
+  padding: 10px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+}
+.dark-theme-trending-heading-container {
+  width: 80vw;
+  background-color: #0f0f0f;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.dark-theme-trending-icon-container {
+  background-color: #000000;
+  padding: 10px;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100px;
+}
+.trending-icon {
+  font-size: 30px;
+  color: #ff0000;
+}
+.light-theme-trending-heading {
+  font-size: 30px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+.dark-theme-trending-heading {
+  font-size: 30px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+.light-theme-trending-container {
+  background-color: #f8fafc;
+  padding: 30px;
+  height: 100vh;
+  width: 80vw;
+}
+.dark-theme-trending-container {
+  background-color: #000000;
+  padding: 30px;
+  height: 100vh;
+  width: 80vw;
+}
+.trending-videos-list {
+  height: 560px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}

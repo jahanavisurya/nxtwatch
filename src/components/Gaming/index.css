@@ -1,0 +1,12 @@
+.gaming-videos-list {
+  display: flex;
+  flex-wrap: wrap;
+  height: 560px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+}

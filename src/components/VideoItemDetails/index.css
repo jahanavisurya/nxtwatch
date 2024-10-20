@@ -1,0 +1,113 @@
+.light-theme-video-container {
+  background-color: #f8fafc;
+  padding: 30px;
+  height: 120vh;
+  width: 80vw;
+}
+
+.dark-theme-video-container {
+  background-color: #000000;
+  padding: 30px;
+  height: 120vh;
+  width: 80vw;
+}
+
+.react-player-video {
+  height: 450px !important;
+  width: 100% !important;
+}
+.light-theme-video-para {
+  color: #00306e;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.dark-theme-video-para {
+  color: #f8fafc;
+  font-size: 13px;
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+
+.light-theme-like-buttons {
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+}
+.dark-theme-like-buttons {
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+}
+.light-theme-video-icon {
+  font-size: 15px;
+  margin-right: 5px;
+}
+.dark-theme-video-icon {
+  font-size: 15px;
+  margin-right: 5px;
+}
+.views-likes-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.channel-profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.channel-profile-image {
+  height: 35px;
+  margin-right: 10px;
+}
+.light-theme-channel-name {
+  color: #00306e;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.dark-theme-channel-name {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.light-theme-channel-subscribers-count {
+  color: #f8fafc;
+  font-size: 11px;
+  font-family: 'Roboto';
+}
+.dark-theme-channel-subscribers-count {
+  color: #f8fafc;
+  font-size: 11px;
+  font-family: 'Roboto';
+}
+.light-theme-description-para {
+  color: #00306e;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.dark-theme-description-para {
+  color: #f8fafc;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.liked {
+  color: #2563eb;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+}
+.disliked {
+  color: #2563eb;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border-width: 0px;
+}
